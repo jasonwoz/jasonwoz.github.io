@@ -1,11 +1,13 @@
 body {
-	background-color: lightblue;
+	background-color: #6495ED;
 }
 
 .header-section {
+	width: 500px;
+	height:200px;
 
 }
 
 .description-section {
-	background-color: blue;
+	background-color: #1E90FF;
 }
