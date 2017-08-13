@@ -7,6 +7,8 @@ body {
     line-height: 1;
     font-weight: 700;
     font-size: 4.5em;
+    color: white;
+    font-family: "Raleway", Arial, sans-serif;
 }
 
 .header-name-h2 {
@@ -20,8 +22,7 @@ body {
 
 .header-section {
 	position: relative;
-	width: 500px;
-	height:200px;
+	
 
 }
 
