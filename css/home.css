@@ -4,6 +4,7 @@ body {
 
 .header-name-h1 {
     margin-top: 0.67em;
+    margin-bottom: 0em;
     line-height: 1;
     font-weight: 700;
     font-size: 4.5em;
@@ -12,7 +13,7 @@ body {
 }
 
 .header-name-h2 {
-	margin-bottom: 0.67em;
+	margin-bottom: 1.67em;
     font-weight: 200;
     opacity: 0.6;
     color: white;
@@ -22,11 +23,53 @@ body {
 
 .header-section {
 	position: relative;
-	
-
+	text-align: center;
 }
+
 
 .description-section {
-	background-color: #E0FFFF;
+	background-color: #C3E4FD;
 	position: relative;
 }
+
+.description-section-par-one {
+	font-size: 50px;
+	max-width: 1200px;
+    margin: 0 auto;
+    line-height: 1.5;
+    padding-bottom: 2%;
+    font-family: "Raleway", Arial, sans-serif;
+    font-weight: 300;
+    text-align: justify;
+    color: #404d5b;
+}
+
+.description-section-par-two {
+	font-size: 50px;
+	max-width: 1200px;
+    margin: 0 auto;
+    line-height: 1.5;
+    padding-bottom: 2%;
+    font-family: "Raleway", Arial, sans-serif;
+    font-weight: 300;
+    text-align: justify;
+    color: #404d5b;
+}
+
+a:link, a:visited{
+	text-decoration: none;
+	font-weight: 500;
+	color: midnightblue;
+}
+
+
+
+a:hover {
+	background-color: white;
+	border-radius: 7px;
+	padding-bottom: .15em;
+	padding-top: .15em;
+	text-decoration: none;
+
+}
+
