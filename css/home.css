@@ -18,6 +18,7 @@ body {
     opacity: 0.6;
     color: white;
     font-family: "Raleway", Arial, sans-serif;
+    font-size: 40px;
 
 }
 
@@ -28,8 +29,10 @@ body {
 
 
 .description-section {
-	background-color: #C3E4FD;
+	background-color: #b3cde0;
 	position: relative;
+	padding-bottom: 4em;
+	padding-top: 4em;
 }
 
 .description-section-par-one {
@@ -59,7 +62,7 @@ body {
 a:link, a:visited{
 	text-decoration: none;
 	font-weight: 500;
-	color: midnightblue;
+	color: #011f4b;
 }
 
 
